@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9cc92ba0a9b899d8c914f963b1ed7979235aa0db23636909c4353bb104fb2265
-size 224
+# fitness_app
+Here, I showcase a console-based fitness app created in C++ a project from my 2nd semester at university. Explore how I implemented various fitness routines and tracking functionalities. Let's get fit together.
